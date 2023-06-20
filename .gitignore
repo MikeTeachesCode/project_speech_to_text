@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.ipynb
+*.pyc
+SPEECH_TO_CALCULATE/__pycache__
